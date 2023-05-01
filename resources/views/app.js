@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+
 	// make it as accordion for smaller screens
 	// if (window.innerWidth > 992) {
 
@@ -65,9 +66,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 	}
 
-		
-	
-	
+
+
+
 
 	// scroll check
 	window.addEventListener('scroll', (x) => {
@@ -100,3 +101,6 @@ function scrollClick(){
 				slider[i].scrollLeft = scrollLeft - walk;
 				console.log(walk);
 }
+
+
+

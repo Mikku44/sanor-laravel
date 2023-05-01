@@ -19,7 +19,7 @@
                     <!-- class='container-fluid' -->
                     <a class="navbar-brand grid-item" href="./">
                         <div class="d-flex align-items-center">
-                            <Img height="80px" src="./img/logore.png"></Img>
+                            <Img height="80px" src="./img/logore.png" />
                             <div class="px-0 px-lg-3 py-2">
                                 <h5 class="fnt">องค์การบริหารส่วนตำบลสะนอ</h5>
                                 <h5 class="fnt">อำเภอยะรัง จังหวัดปัตตานี</h5>
@@ -146,7 +146,7 @@
                                         <a href="power">อำนาจหน้าที่</a>
                                     </li>
                                     <li class="">
-                                        <a href="#">แผนพัฒนาหน่วยงาน</a>
+                                        <a href="documents">แผนพัฒนาหน่วยงาน</a>
                                     </li>
                                     <li class="">
                                         <a href="#">ข้อมูลการติดต่อ</a>

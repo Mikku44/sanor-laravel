@@ -14,8 +14,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="" />
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors" />
-    <meta name="generator" content="Hugo 0.108.0" />
+    <meta name="author" content="Anda , Usman" />
+
     <title>แหล่งท่องเที่ยว | องค์การบริหารส่วนตำบลสะนอ จังหวัดปัตตานี</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/carousel/" />
@@ -167,7 +167,7 @@
                                     <img src="/img/travel1.png"
                                         class="img-fluid" />
                                     <div class="card-img-overlay d-flex justify-content-center align-items-center ">
-                                        <a href="#!" class="fs-3 text-white">บ่อลับลาตุ้ลก็อต
+                                        <a href="#!" class="fs-3 text-white">บ่อลัยลาตุ้ลก็อต
 
                                         </a>
                                     </div>

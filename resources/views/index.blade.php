@@ -15,8 +15,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="" />
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors" />
-    <meta name="generator" content="Hugo 0.108.0" />
+    <meta name="author" content="Anda , Usman" />
+
     <title>องค์การบริหารส่วนตำบลสะนอ จังหวัดปัตตานี</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/carousel/" />
@@ -104,7 +104,7 @@
         }
     </style>
 
-
+<script src="https://unpkg.com/scrollreveal"></script>
 
     <!-- Custom styles for this template
     <link href="carousel.css" rel="stylesheet" /> -->
@@ -143,6 +143,10 @@
 
                                 โครงการท้องถิ่นปลูกป่าเฉลิมพระเกียรติสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ
                                 พระบรมราชชนนีพันปีหลวง
+                                <script>
+
+                                    ScrollReveal('.carousel-caption', { interval: 200 });
+                                    </script>
                             </p>
                             <p>
                                 <!-- <a class="btn btn-lg btn-primary" href="#">ดูกิจกรรม</a> -->
@@ -196,6 +200,7 @@
                 <span class="visually-hidden">Next</span>
             </button>
         </div>
+
 
         <!-- Marketing messaging and featurettes
   ================================================== -->
@@ -1068,6 +1073,7 @@
         integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
         crossorigin="anonymous"></script>
     <script src="app.js"></script>
+
 </body>
 
 </html>
