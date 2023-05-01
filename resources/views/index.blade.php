@@ -145,7 +145,7 @@
                                 พระบรมราชชนนีพันปีหลวง
                                 <script>
 
-                                    ScrollReveal('.carousel-caption', { interval: 200 });
+                                    ScrollReveal({ interval: 200 });
                                     </script>
                             </p>
                             <p>
