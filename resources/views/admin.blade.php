@@ -70,8 +70,10 @@
                                         </div>
 
                                         <div class="pt-1 mb-4">
-                                            <button class="btn btn-dark btn-lg btn-block"
-                                                type="button">เข้าสู่ระบบ</button>
+                                            <a href="/manage">
+                                                <button class="btn btn-dark btn-lg btn-block"
+                                                    type="button">เข้าสู่ระบบ</button>
+                                            </a>
                                         </div>
 
                                     </form>

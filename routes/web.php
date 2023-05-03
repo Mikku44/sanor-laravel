@@ -70,3 +70,6 @@ Route::get('/travel', function () {
 Route::get('/power', function () {
     return view('power');
 });
+Route::get('/manage', function () {
+    return view('manage');
+});
