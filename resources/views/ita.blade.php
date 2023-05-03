@@ -4,8 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>ITA - ต่อต้านการคอรั่ปชั่น อบต.สะนอ</title>
     <!-- Font Awesome -->
+    <link rel="apple-touch-icon" href="./img/favicon.png" sizes="180x180" />
+    <link rel="icon" href="./img/favicon.png" sizes="32x32" type="image/png" />
+    <link rel="icon" href="./img/favicon.png" sizes="16x16" type="image/png" />
 <link
 href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
 rel="stylesheet"

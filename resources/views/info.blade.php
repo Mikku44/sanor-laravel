@@ -122,7 +122,7 @@
          </div>
          <div align="center" >
             <h5 class="fw-light">
-                <img src="./img/logore.png" alt="">
+                <img src="./img/logore_old.png" alt="">
                 <h6 class="text-white">ตราสัญลักษณ์</h6>
                 <h6 class="fw-light text-white">องค์การบริหารส่วนตำบลสะนอ</h6>
             </h5>

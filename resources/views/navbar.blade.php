@@ -1,4 +1,8 @@
-
+<head>
+    <link rel="apple-touch-icon" href="./img/favicon.png" sizes="180x180" />
+    <link rel="icon" href="./img/favicon.png" sizes="32x32" type="image/png" />
+    <link rel="icon" href="./img/favicon.png" sizes="16x16" type="image/png" />
+</head>
 <div>
         <div class="bg-body-secondary"
             style="background: linear-gradient(90deg, rgba(171,171,171,1) 70%, rgba(231,231,232,1) 100%);">
@@ -17,7 +21,7 @@
 
                 <div class="container ">
                     <!-- class='container-fluid' -->
-                    <a class="navbar-brand grid-item" href="./">
+                    <a class="navbar-brand grid-item" href="./home">
                         <div class="d-flex align-items-center">
                             <Img height="80px" src="./img/logore.png" />
                             <div class="px-0 px-lg-3 py-2">
@@ -45,7 +49,7 @@
 
                             <li class="nav-item">
                                 <a class="nav-link c d-flex flex-wrap justify-content-between thick  fw-light py-1  active"
-                                    aria-current="page" href="/">หน้าหลัก</a>
+                                    aria-current="page" href="/home">หน้าหลัก</a>
                             </li>
                             <li class="nav-item dropdown ">
                                 <a class="nav-link c d-flex flex-wrap justify-content-between d-flex  fw-light py-1  "
