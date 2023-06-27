@@ -8,7 +8,7 @@
             style="background: linear-gradient(90deg, rgba(171,171,171,1) 70%, rgba(231,231,232,1) 100%);">
             <div class="container gap-2 d-flex justify-content-between align-items-center">
                 <div class="d-flex gap-2 align-items-center justify-content-baseline">
-                    <a href="/"><i class="fa-text-height fa-solid"></i></a>
+                    <a href="#"><i class="fa-text-height fa-solid"></i></a>
 
 
                 </div>
