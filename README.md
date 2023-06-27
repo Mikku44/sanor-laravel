@@ -1,2 +1,2 @@
-# sanor-laravel
+php artisan serve
  
