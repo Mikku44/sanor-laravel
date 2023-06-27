@@ -1,4 +1,4 @@
-<footer class="m-0 p-2 px-5 text-white" style="background: rgb(153,153,153);">
+<footer class="m-0 p-2 px-5 text-white" style="background: linear-gradient(309deg, rgb(11, 11, 11) 0%, rgb(55, 53, 49) 100%);">
 
     <div class="d-flex flex-column align-items-center fw-light ">
         <img src="./img/logore.png " width="80px" alt="">
