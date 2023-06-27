@@ -33,19 +33,19 @@
     <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet" /> -->
     <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.js"></script> -->
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="./img/favicon.png" sizes="180x180" />
-    <link rel="icon" href="./img/favicon.png" sizes="32x32" type="image/png" />
-    <link rel="icon" href="./img/favicon.png" sizes="16x16" type="image/png" />
-    <link rel="manifest" href="/docs/5.3/assets/./img/favicons/manifest.json" />
-    <link rel="mask-icon" href="/docs/5.3/assets/./img/favicons/safari-pinned-tab.svg" color="#712cf9" />
+    <link rel="apple-touch-icon" href="/img/favicon.png" sizes="180x180" />
+    <link rel="icon" href="/img/favicon.png" sizes="32x32" type="image/png" />
+    <link rel="icon" href="/img/favicon.png" sizes="16x16" type="image/png" />
+    <link rel="manifest" href="/docs/5.3/assets//img/favicons/manifest.json" />
+    <link rel="mask-icon" href="/docs/5.3/assets//img/favicons/safari-pinned-tab.svg" color="#712cf9" />
     <!-- Font Awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
 
-    <link rel="icon" href="/docs/5.3/assets/./img/favicons/favicon.ico" />
+    <link rel="icon" href="/docs/5.3/assets//img/favicons/favicon.ico" />
 
     <meta name="theme-color" content="#712cf9" />
 
@@ -120,7 +120,7 @@
             <h3 class="container  display-6 text-light ">องค์การบริหารส่วนตำบลสะนอ</h3>
         </div>
         <div class="container mt-3">
-            <h2>เอกสารการดำเนินการ</h2>
+            <h2>{{ $title }}</h2>
             <hr>
             <!-- file 1 -->
             <a href="https://www.sanor.go.th/news/doc_download/a_170223_141047.pdf" target="_blank"
@@ -229,7 +229,7 @@
     <footer class="m-0 p-2 px-5 text-white" style="background: rgb(153,153,153);">
 
         <div class="d-flex flex-column align-items-center fw-light ">
-            <img src="./img/logore.png " width="80px" alt="">
+            <img src="/img/logore.png " width="80px" alt="">
             <div class="px-4 text-center">
                 <h4>องค์การบริหารส่วนตำบลสะนอ</h4>
                 <div>หมู่ 1 ตำบลสะนอ อำเภอยะรัง จังหวัดปัตตานี รหัสไปรษณีย์ 94160</div>

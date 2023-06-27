@@ -26,7 +26,34 @@ Route::get('/contact', function () {
     return view('contact');
 });
 Route::get('/documents', function () {
-    return view('documents');
+    return redirect('documents/1');
+});
+Route::get('/documents/{id}', function ($id) {
+    if($id == 1){
+        $title = "เอกสารการดำเนินการ";
+    }
+    else if($id == 2){
+        $title = "แผนดำเนินงาน/งบประมาณประจำปี";
+    }
+    else if($id == 3){
+        $title = "แผนการใช้จ่ายงบประมาณประจำปี";
+    }
+    else if($id == 4){
+        $title = "รายงานผลการดำเนินงานประจำปี";
+    }
+    else if($id == 5){
+        $title = "มาตรฐานการปฏิบัติงาน/บริการ";
+    }
+    else if($id == 6){
+        $title = "ข้อมูลเชิงสถิติการให้บริการ";
+    }
+    else if($id == 7){
+        $title = "รายงานผลการสำรวจความพึงพอใจ";
+    }
+    else if($id == 8){
+        $title = "รายงานการประชุม";
+    }
+    return view('documents',['title'=>$title]);
 });
 Route::get('/eservice', function () {
     return view('e-services');
@@ -56,8 +83,8 @@ Route::get('/laws', function () {
     return view('laws');
 });
 Route::get('/news', function () {
-    $title = 'ข่าวจัดซื้อจัดจ้าง';
-    return view('news',['title' => $title]);
+
+    return redirect('/news/1');
 });
 Route::get('/news/{id}', function ($id) {
 

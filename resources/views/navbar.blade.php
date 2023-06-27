@@ -342,34 +342,34 @@
                                 </div></a>
                             <ul class="collapse  d-md-none p-0" id="docCollapse">
 
-                                <a href="/documents" class="text-primary px-3"
+                                <a href="/documents/1" class="text-primary px-3"
                                     style="font-size:14px;">เอกสารการดำเนินการ</a>
                                 <ul class="sub-menu nav-column nav-dropdown-default dropdown-uppercase">
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents">แผนดำเนินงาน/งบประมาณประจำปี</a>
+                                        <a href="/documents/2">แผนดำเนินงาน/งบประมาณประจำปี</a>
                                     </li>
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents">แผนการใช้จ่ายงบประมาณประจำปี</a>
-                                    </li>
-
-                                    <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents">รายงานผลการดำเนินงานประจำปี</a>
+                                        <a href="/documents/3">แผนการใช้จ่ายงบประมาณประจำปี</a>
                                     </li>
 
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents">มาตรฐานการปฏิบัติงาน/บริการ</a>
+                                        <a href="/documents/4">รายงานผลการดำเนินงานประจำปี</a>
                                     </li>
 
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents">ข้อมูลเชิงสถิติการให้บริการ</a>
+                                        <a href="/documents/5">มาตรฐานการปฏิบัติงาน/บริการ</a>
                                     </li>
 
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents"> รายงานผลการสำรวจความพึงพอใจ</a>
+                                        <a href="/documents/6">ข้อมูลเชิงสถิติการให้บริการ</a>
                                     </li>
 
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents"> รายงานการประชุม</a>
+                                        <a href="/documents/7"> รายงานผลการสำรวจความพึงพอใจ</a>
+                                    </li>
+
+                                    <li id="menu-item-2601" class="menu-item ">
+                                        <a href="/documents/8"> รายงานการประชุม</a>
                                     </li>
 
                                 </ul>
@@ -443,33 +443,33 @@
                         <ul class="dropdown-menu collapse  sub-menu nav-dropdown nav-dropdown-default dropdown-uppercase "
                             style="right:10px;">
                             <li class="menu-item children menu-item-1208 nav-dropdown-col">
-                                <a href="/documents">เอกสารการดำเนินการ</a>
+                                <a href="/documents/1">เอกสารการดำเนินการ</a>
                                 <ul class="sub-menu nav-column nav-dropdown-default dropdown-uppercase">
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents">แผนดำเนินงาน/งบประมาณประจำปี</a>
+                                        <a href="/documents/2">แผนดำเนินงาน/งบประมาณประจำปี</a>
                                     </li>
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents">แผนการใช้จ่ายงบประมาณประจำปี</a>
-                                    </li>
-
-                                    <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents">รายงานผลการดำเนินงานประจำปี</a>
+                                        <a href="/documents/3">แผนการใช้จ่ายงบประมาณประจำปี</a>
                                     </li>
 
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents">มาตรฐานการปฏิบัติงาน/บริการ</a>
+                                        <a href="/documents/4">รายงานผลการดำเนินงานประจำปี</a>
                                     </li>
 
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents">ข้อมูลเชิงสถิติการให้บริการ</a>
+                                        <a href="/documents/5">มาตรฐานการปฏิบัติงาน/บริการ</a>
                                     </li>
 
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents"> รายงานผลการสำรวจความพึงพอใจ</a>
+                                        <a href="/documents/6">ข้อมูลเชิงสถิติการให้บริการ</a>
                                     </li>
 
                                     <li id="menu-item-2601" class="menu-item ">
-                                        <a href="/documents"> รายงานการประชุม</a>
+                                        <a href="/documents/7"> รายงานผลการสำรวจความพึงพอใจ</a>
+                                    </li>
+
+                                    <li id="menu-item-2601" class="menu-item ">
+                                        <a href="/documents/8"> รายงานการประชุม</a>
                                     </li>
 
                                 </ul>
