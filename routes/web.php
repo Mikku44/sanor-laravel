@@ -56,10 +56,34 @@ Route::get('/laws', function () {
     return view('laws');
 });
 Route::get('/news', function () {
-    return view('news');
+    $title = 'ข่าวจัดซื้อจัดจ้าง';
+    return view('news',['title' => $title]);
 });
-Route::get('/news/{id}', function () {
-    return view('news_detail');
+Route::get('/news/{id}', function ($id) {
+
+    if($id == 6){
+        $title = 'ศูนย์ข้อมูลข่าวสาร';
+    }else if($id == 2){
+        $title  = 'ข่าวจัดซื้อจัดจ้าง';
+
+    }
+    else if($id == 3){
+        $title  = 'ข่าวรับสมัครงาน';
+    }
+    else if($id == 4){
+        $title  = 'ข่าวในเครือ อปท. จังหวัดปัตตานี';
+    }
+    else if($id == 5){
+        $title  = 'ข่าวที่หน้าสนใจในจังหวัด';
+    }else{
+        $title = 'ข่าวประชาสัมพันธ์';
+    }
+
+    return view('news',['title' => $title]);
+});
+Route::get('/news/{id}/{content}', function ($id,$content) {
+
+    return view('news_detail',['id' => $id]);
 });
 Route::get('/policy', function () {
     return view('policy');
