@@ -62,11 +62,11 @@
 
                                 <ul class="collapse  d-md-none p-0 " id="infoCollapse">
 
-                                    <a href="info" class="text-primary px-3"
+                                    <a href="info#base" class="text-primary px-3"
                                         style="font-size:14px;">ข้อมูลพื้นฐาน</a>
                                     <ul class="sub-menu nav-column nav-dropdown-default dropdown-uppercase">
                                         <li class="">
-                                            <a href="info">วิสัยทัศน์/พันธกิจ</a>
+                                            <a href="info#vision">วิสัยทัศน์/พันธกิจ</a>
                                         </li>
                                         <li class="">
                                             <a href="info">ตราสัญลักษณ์</a>

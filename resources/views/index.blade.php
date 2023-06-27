@@ -289,11 +289,13 @@
 
             <div class="row featurette" style="background:url('./img/thaipattern2.jpg') no-repeat ;">
                 <div class="col-md-7 order-md-1 px-5 py-5">
+
                     <!-- <h2 class="featurette-heading fw-normal lh-1">
                         Oh yeah, it’s that good.
                         <span class="text-muted">See for yourself.</span>
                     </h2> -->
                     <div class="card nb my-4 rounded-3 shadow">
+
                         <div class="card-text fw-light p-5 m-4">
                             <div class="d-flex ">
                                 <div class="p-1">
@@ -309,6 +311,7 @@
                             <h2 class="text-break featurette-heading fw-normal lh-1 py-5">
 
                             </h2>
+
                             <h4 class="featurette-heading fw-normal lh-1 ">
                                 นางสาวธัญญ์นวพัชร จันทร์ประภา
                             </h4>
@@ -326,7 +329,7 @@
                         <title>Placeholder</title>
                         <rect width="100%" height="100%" fill="#eee"></rect>
                         <text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text> -->
-
+                    <img src="{{ URL::asset('/img/palad.png') }}" width="80%" alt="รูปท่านปลัด อบต.">
                 </div>
             </div>
 
@@ -1072,7 +1075,7 @@
     <script src="/docs/5.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
         crossorigin="anonymous"></script>
-    <script src="app.js"></script>
+    <script src="{{ URL::asset('/assets/js/app.js') }}"></script>
 
 </body>
 

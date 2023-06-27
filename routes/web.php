@@ -31,6 +31,9 @@ Route::get('/documents', function () {
 Route::get('/eservice', function () {
     return view('e-services');
 });
+Route::get('/e-services.html', function () {
+    return redirect('eservice');
+});
 Route::get('/', function () {
     return view('entry');
 });
@@ -41,7 +44,10 @@ Route::get('/events/{id}', function () {
     return view('event_detail');
 });
 Route::get('/info', function () {
-    return view('info');
+
+    $request = view('info');
+
+    return $request;
 });
 Route::get('/ita', function () {
     return view('ita');

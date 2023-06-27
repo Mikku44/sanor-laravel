@@ -131,7 +131,7 @@
      </div>
 
         <div class="container">
-            <h3 align="center" class="mt-5">ข้อมูลพื้นฐาน</h3>
+            <h3 align="center" id="base" class="mt-5">ข้อมูลพื้นฐาน</h3>
             <hr>
             <h5 class="fw-light d-flex justify-content-between flex-wrap">
                 <div>
@@ -154,7 +154,7 @@
             </h5>
             <br>
             <div  class="py-3">
-                <h3  align="center">ประวัติความเป็นมา</h3>
+                <h3 id="history" align="center">ประวัติความเป็นมา</h3>
                 <hr>
                 <div class="fs-5 fw-light">ประวัติความเป็นมาของตำบล <br>
                     ความหมายของคำว่า <strong>“สะนอ”</strong> หมายถึง <strong>ต้นประดู่</strong> <br>
