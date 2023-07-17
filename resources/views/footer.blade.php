@@ -1,7 +1,7 @@
 <footer class="m-0 p-2 px-5 text-white" style="background: linear-gradient(309deg, rgb(11, 11, 11) 0%, rgb(55, 53, 49) 100%);">
 
     <div class="d-flex flex-column align-items-center fw-light ">
-        <img src="./img/logore.png " width="80px" alt="">
+        <img src="/img/logore.png " width="80px" alt="">
         <div class="px-4 text-center">
             <h4>องค์การบริหารส่วนตำบลสะนอ</h4>
             <div>หมู่ 1 ตำบลสะนอ อำเภอยะรัง จังหวัดปัตตานี รหัสไปรษณีย์ 94160</div>

@@ -869,7 +869,7 @@
                     <!-- menu -->
                     <div class="container text-center ">
                         <div class="items">
-                            <a href="./ita.html">
+                            <a href="./ita">
                                 <div class="card-custom gap-3 card-1">
                                     <div class="display-7 " style="height:80px;">
                                         <img src="https://itas.nacc.go.th/Content/img/ITALogo1.png"

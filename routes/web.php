@@ -134,3 +134,6 @@ Route::get('/power', function () {
 Route::get('/manage', function () {
     return view('manage');
 });
+Route::get('/ita', function () {
+    return view('ita');
+});
